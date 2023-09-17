@@ -72,11 +72,11 @@
       </configuration>
     </plugin>
 
-   <plugin>
+ <plugin>
       <groupId>org.sonarsource.scanner.maven</groupId>
       <artifactId>sonar-maven-plugin</artifactId>
-      <version>latest_version_here</version>
-  </plugin>
+      <version>2.7.1</version> <!-- Use a version compatible with Java 8 -->
+</plugin>
 
 
 
